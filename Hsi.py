@@ -326,7 +326,7 @@ def rcrack(uid,pwx,tl):
             "sec-fetch-site": 'none',
             "sec-fetch-user": '?1',
             "pragma": 'no-cache',
-            "priority": 'u=3,
+            "priority": 'u=3',
             'cross-origin-resource-policy': 'cross-origin',
             "upgrade-insecure-requests": '1',
             "user-agent": 'Mozilla/5.0 (Mobile; rv:48.0; A405DL) Gecko/48.0 Firefox/48.0 KAIOS/2.5'}
